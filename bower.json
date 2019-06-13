@@ -1,0 +1,22 @@
+{
+  "name": "reset-additional",
+  "authors": [
+    "Max Zhurkin <maximzhurkin@gmail.com>"
+  ],
+  "description": "Additional reset styles based on Eric Meyer's reset file",
+  "main": "",
+  "keywords": [
+    "additional",
+    "reset",
+    "stylus"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/maximzhurkin/reset-additional",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
